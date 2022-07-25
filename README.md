@@ -1,4 +1,4 @@
 # instagram-clone-coding
-###### BackEnd
+###### nodeJS
 
-인스타그램 클론 코딩 (nodeJS) <br>
+인스타그램 클론 코딩 (BackEnd) <br>
